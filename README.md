@@ -18,6 +18,8 @@ Frontend: TypeScript, React, Zustand, Framer Motion
 Backend (Future): Node.js / Python (planned)
 Design: CSS-in-JS, custom theme
 AI: Keyword-based symptom matching (functional demo; LLM integration planned)
+
+
 📂 Project Structure (Example)
 /src
   /components   # Reusable UI components
@@ -44,10 +46,6 @@ View dashboard stats and upcoming appointments
 Enter symptoms in AI Triage → get recommended specialty and urgency
 Browse doctors and book appointments with AI-generated summary
 Manage appointments (view/cancel)
-📸 Screenshots
-
-
-
 
 
 🤝 Contributing
