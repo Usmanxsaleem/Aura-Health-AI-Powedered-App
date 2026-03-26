@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Welcome to your Aura-Health-AI-Powedered-App
 
 TODO: Document your project here
